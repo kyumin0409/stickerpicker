@@ -1,6 +1,23 @@
 {
   "packs": [
-    "Jordanytm.json"
+    "Jordanytm.json",
+    "UP12Jordan.json",
+    "NAYG50K.json",
+    "KingdomKidsZoom.json",
+    "OC50K.json",
+    "ramadaann23.json",
+    "TeamZion.json",
+    "dkfkqdj.json",
+    "stWxjjyllRE40T5OfovQ9Gb5sw5731_by_KakaoEmoticon_Bot.json",
+    "GroupChatMC.json",
+    "danistickersss.json",
+    "ILOVEJORDAN.json",
+    "nari_YOUNGANDRICH.json",
+    "WEAREHQ.json",
+    "party962.json",
+    "jordancute.json",
+    "enjoyjd.json",
+    "Zoomcall.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
